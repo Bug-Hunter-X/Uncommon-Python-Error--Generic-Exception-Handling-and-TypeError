@@ -1,0 +1,1 @@
+This repository demonstrates an example of an uncommon error in Python that arises from using a generic 'except Exception' clause in error handling. The code also showcases a TypeError which can easily be missed unless proper checks are implemented. The solution shows a more refined approach that distinguishes between different error types for better diagnostic and robust code.
